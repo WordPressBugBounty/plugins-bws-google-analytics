@@ -1,10 +1,10 @@
 === Analytics by BestWebSoft - Google Analytics Dashboard and Statistic Plugin for WordPress ===
-Contributors: bestwebsoft
+Contributors: bestweblayout
 Donate link: https://bestwebsoft.com/donate/
-Tags: add tracking code, analytics, display statistic report, google analytics, google analytics plugin, google analytics stats, group statistics, metrics, page views, visit duration, tracking, web properties
+Tags: add tracking code, analytics, display statistic report, google analytics, google analytics plugin
 Requires at least: 5.6
 Requires PHP: 7.4
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
